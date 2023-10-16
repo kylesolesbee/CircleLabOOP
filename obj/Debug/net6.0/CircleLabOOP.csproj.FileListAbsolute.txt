@@ -1,0 +1,14 @@
+C:\Users\ksole\Documents\GrandCircus\CircleLabOOP\bin\Debug\net6.0\CircleLabOOP.exe
+C:\Users\ksole\Documents\GrandCircus\CircleLabOOP\bin\Debug\net6.0\CircleLabOOP.deps.json
+C:\Users\ksole\Documents\GrandCircus\CircleLabOOP\bin\Debug\net6.0\CircleLabOOP.runtimeconfig.json
+C:\Users\ksole\Documents\GrandCircus\CircleLabOOP\bin\Debug\net6.0\CircleLabOOP.dll
+C:\Users\ksole\Documents\GrandCircus\CircleLabOOP\bin\Debug\net6.0\CircleLabOOP.pdb
+C:\Users\ksole\Documents\GrandCircus\CircleLabOOP\obj\Debug\net6.0\CircleLabOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ksole\Documents\GrandCircus\CircleLabOOP\obj\Debug\net6.0\CircleLabOOP.AssemblyInfoInputs.cache
+C:\Users\ksole\Documents\GrandCircus\CircleLabOOP\obj\Debug\net6.0\CircleLabOOP.AssemblyInfo.cs
+C:\Users\ksole\Documents\GrandCircus\CircleLabOOP\obj\Debug\net6.0\CircleLabOOP.csproj.CoreCompileInputs.cache
+C:\Users\ksole\Documents\GrandCircus\CircleLabOOP\obj\Debug\net6.0\CircleLabOOP.dll
+C:\Users\ksole\Documents\GrandCircus\CircleLabOOP\obj\Debug\net6.0\refint\CircleLabOOP.dll
+C:\Users\ksole\Documents\GrandCircus\CircleLabOOP\obj\Debug\net6.0\CircleLabOOP.pdb
+C:\Users\ksole\Documents\GrandCircus\CircleLabOOP\obj\Debug\net6.0\CircleLabOOP.genruntimeconfig.cache
+C:\Users\ksole\Documents\GrandCircus\CircleLabOOP\obj\Debug\net6.0\ref\CircleLabOOP.dll
